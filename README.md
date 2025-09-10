@@ -22,4 +22,4 @@ I wrote one .sql file for each question in Scripts/sql:
 - query3.sql   Find company names starting with C or W, with 'ana' in the primary contact, but not 'eana'
 - query4.sql   Join region, sales reps, and accounts, then sort accounts alphabetically
 
-To test a query, I use:
+
